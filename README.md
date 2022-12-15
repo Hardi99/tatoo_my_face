@@ -1,4 +1,4 @@
-# Projet Grafikart
+# Projet Symfony
 
 ## Extensions utiles
 - Twig Language : coloration des fichiers twig
